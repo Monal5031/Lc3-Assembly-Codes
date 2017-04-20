@@ -11,18 +11,14 @@
 LOOP	AND R3,R1,R2
 	BRz SKIP	
 	ADD R4,R4,x1
-SKIP	AND R5,R5,x0
-	ADD R5,R5,xF
-	AND R5,R5,R2
-
+SKIP	
 	ADD R2,R2,R2
-	
-	NOT R5,R5
-	AND R1,R1,R5
+	NOT R5,R2
+	ADD R5, R5, x1
+	AND R5,R1,R5
 	BRp LOOP
-	
-	
 
-HLT 	HALT
+	HALT
 
 	.END
+; Answer is stored in register R4

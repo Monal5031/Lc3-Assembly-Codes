@@ -12,3 +12,6 @@
 * The file `LC3-AssemblyManualAndExamples` in Related Material might help you get familiar with lc3.
 
 <h3> Happy Coding </h3>
+
+<h1>Disclaimer:</h1>
+There are the sample codes performed in lab, what you do with this is none of my business.
