@@ -1,5 +1,7 @@
 # Lc3-Assembly-Codes and Related material's
 
+[![Join the chat at https://gitter.im/Monal5031/Lc3-Assembly-Codes](https://badges.gitter.im/Monal5031/Lc3-Assembly-Codes.svg)](https://gitter.im/Monal5031/Lc3-Assembly-Codes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <h1>About:</h1>
 
 * Codes directory has the codes I have made in Lc3 assembly language.
